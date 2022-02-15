@@ -1,3 +1,3 @@
 ## 📝 Live URL
 
-* [Portfolio Generator](https://github.com/AShariat/portfolio-generator/)
+* [Portfolio Generator](https://ashariat.github.io/portfolio-generator/)
